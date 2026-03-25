@@ -110,6 +110,7 @@ Raw Data → Data Cleaning → Feature Engineering → EDA → Model Training �
 
 ---
 ## AUTHOR
-*SHIFA ZAREEN*
+MD SHAQIB ANSARi
+
 
 
