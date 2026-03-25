@@ -105,7 +105,7 @@ Raw Data → Data Cleaning → Feature Engineering → EDA → Model Training �
 ## 🚀 How to Run
 1. Clone the repository
    ```bash
-   git clone https://github.com/Shifa012751/crypto-volatility-prediction.git
+   git clone https://github.com/shaq783012751/crypto-volatility-prediction.git
 
 
 ---
